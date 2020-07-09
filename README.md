@@ -12,8 +12,8 @@ Getting through the pandemic on chai and code for I have my foot in a lot of thi
 - Deep philosophical questions or conspiracy theories if you're feeling lucky.
 
 ###  How to reach me 📫
-[Twitter](https://twitter.com/iiverveii) - I tweet mostly about code, xkcd comics and Onion articles.
-[LinkedIn](https://www.linkedin.com/in/priyansi-singh-5a2b07195/) - For a more professional front.
+- [Twitter](https://twitter.com/iiverveii) - I tweet mostly about code, xkcd comics and Onion articles.
+- [LinkedIn](https://www.linkedin.com/in/priyansi-singh-5a2b07195/) - For a more professional front.
 
 ### Pronouns 😛
 - she 

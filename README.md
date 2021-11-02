@@ -1,11 +1,11 @@
 ## Hey there 👋
 
-I am Priyansi, a CS undergrad at [KIIT](https://kiit.ac.in/) and an INTJ navigating through life by making lists. I code in Python and C++. My love for Maths made me explore Deep Learning as a 2020 resolution and I haven't looked back since.
+I am Priyansi, a CS undergrad at [KIIT](https://kiit.ac.in/) and an INTJ navigating through life by making lists. I code in Python and Go. I have 1 year of experience in MLOps, backend and technical writing.
 
 ### Whatcha upto? 👩💻
-- Exploring MLOps as I intern @Fynd.
+- Exploring Golang and backend as I work at SigScalr.
 - Improving PyTorch-Ignite's docs.
-- Learning to write clean and modern C++ code. 
+- Compiling a list of folks to meet when I intern at Google next summer.
 
 ###  How to reach me 📫
 - [Twitter](https://twitter.com/iiverveii)
